@@ -14,7 +14,7 @@
     <RootNamespace>NSwag.Sample.NetGlobalAsax</RootNamespace>
     <AssemblyName>NSwag.Sample.NetGlobalAsax</AssemblyName>
     <RuntimeIdentifiers>win</RuntimeIdentifiers>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />

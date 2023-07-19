@@ -121,7 +121,7 @@ partial class Build : NukeBuild
         .Executes(() =>
         {
             Chocolatey("install wixtoolset -y");
-            Chocolatey("install netfx-4.6.1-devpack -y");
+            Chocolatey("install netfx-4.6.2-devpack -y");
             NpmInstall(x => x
                 .EnableGlobal()
                 .AddPackages("dotnettools")
